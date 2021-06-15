@@ -1,5 +1,5 @@
 # Motion-Demo
-Motion demo demonstrating 2d movement in a space using pygame. Use arrow keys to control the player sprite.
+Pygame program demonstrating sprite movement within a 2d space. Includes realtime updates for the sprite postion within 2d space, including sprite velocity, acceleration, current trajectory and direction of force acting on the sprite.
 # How to setup
 Motion-Demo requires both python and pygame installed to run. The following walkthrough will help you verify and install python, pip, and pygame using your operating systems CLI (cmd for Windows, terminal for OSX).
 ##### 1. Verfiy that Python is properly installed using your operating system's CLI. If you don't have Python, you can download the latest version [here](https://www.python.org/downloads/).
